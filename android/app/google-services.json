@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077724702640",
+    "project_id": "loginauthtutorial-f64b3",
+    "storage_bucket": "loginauthtutorial-f64b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077724702640:android:f92f25b7354c9035c69875",
+        "android_client_info": {
+          "package_name": "com.example.loginauthh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgFJ9z20DGSzYoOV173NRtooudoWZciUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
