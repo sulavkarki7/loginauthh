@@ -1,6 +1,6 @@
 # loginauthh
 
-A new Flutter project.
+Demo login authentication
 
 ## Getting Started
 
